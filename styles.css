@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(143, 231, 243);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    background-color: rgb(64, 5, 133);
+    color: white;
+    text-align: center;
+    border: 3px solid black;
+    
+    
+}
+
+.recipes {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+   
+}
